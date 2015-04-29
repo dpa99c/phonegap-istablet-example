@@ -1,0 +1,28 @@
+2015-04-29 13:10:04.644 IsTablet Example[26393:15239609] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/admin/Library/Developer/CoreSimulator/Devices/3F8DCFB3-C7FC-400A-B5B8-1890BD10E284/data/Containers/Data/Application/B5DB1E4B-71F3-4920-B23B-8B6629A43E2E/Library/Cookies/Cookies.binarycookies
+2015-04-29 13:10:05.335 IsTablet Example[26393:15239609] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-29 13:10:05.335 IsTablet Example[26393:15239609] Multi-tasking -> Device: YES, App: YES
+2015-04-29 13:10:05.370 IsTablet Example[26393:15239609] Unlimited access to network resources
+2015-04-29 13:10:05.375 IsTablet Example[26393:15239609] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-29 13:10:06.680 IsTablet Example[26393:15239609] Resetting plugins due to page load.
+2015-04-29 13:10:06.963 IsTablet Example[26393:15239609] Finished load of: file:///Users/admin/Library/Developer/CoreSimulator/Devices/3F8DCFB3-C7FC-400A-B5B8-1890BD10E284/data/Containers/Bundle/Application/A9C76FD4-A3D6-45A7-866C-EF6727F70E87/IsTablet%20Example.app/www/index.html
+2015-04-29 13:11:52.629 IsTablet Example[26501:15240844] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/admin/Library/Developer/CoreSimulator/Devices/4C3F3B68-74CD-4704-A23C-9D01A5B4B761/data/Containers/Data/Application/6E27E600-D2E1-4D62-8C34-0BADF39A20EE/Library/Cookies/Cookies.binarycookies
+2015-04-29 13:11:52.727 IsTablet Example[26501:15240844] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-29 13:11:52.727 IsTablet Example[26501:15240844] Multi-tasking -> Device: YES, App: YES
+2015-04-29 13:11:52.736 IsTablet Example[26501:15240844] Unlimited access to network resources
+2015-04-29 13:11:52.747 IsTablet Example[26501:15240844] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-29 13:11:53.245 IsTablet Example[26501:15240844] Resetting plugins due to page load.
+2015-04-29 13:11:53.286 IsTablet Example[26501:15240844] Finished load of: file:///Users/admin/Library/Developer/CoreSimulator/Devices/4C3F3B68-74CD-4704-A23C-9D01A5B4B761/data/Containers/Bundle/Application/20828CC8-15D3-4A60-BC1C-259B8D39CA97/IsTablet%20Example.app/www/index.html

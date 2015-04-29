@@ -1,4 +1,4 @@
-/*
+cordova.define("uk.co.workingedge.phonegap.plugin.IsTablet.IsTablet", function(require, exports, module) { /*
    Copyright 2015 Dave Alden - http://www.workingedge.co.uk/dave/
 
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,15 +13,7 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 */
-
 (function() {
-    var exec = require('cordova/exec');
-    (function(){
-        cordova.exec(function(result){
-            window.isTablet = result;
-        }, function(){
-            console.error("Error calling IsTablet plugin");
-        }, 'IsTablet', null, []);
-    })();
+   window.isTablet = !!navigator.userAgent.match(/iPad/i);
 })();
-    
+});
