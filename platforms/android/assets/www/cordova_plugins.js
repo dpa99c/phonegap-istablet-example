@@ -9,7 +9,7 @@ module.exports = [
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "uk.co.workingedge.phonegap.plugin.IsTablet": "1.0.0"
+    "uk.co.workingedge.phonegap.plugin.IsTablet": "1.0.3"
 }
 // BOTTOM OF METADATA
 });
