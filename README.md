@@ -1,7 +1,9 @@
 Cordova/Phonegap IsTablet Example
 =================================
 
-This repo contains an example PhoneGap 3 project which illustrates how to use the [IsTablet plugin](https://github.com/dpa99c/phonegap-istablet) which indicates whether the current Android or iOS device is a tablet.
+This repo contains an example Cordova/Phonegap project which illustrates how to use the [IsTablet plugin](https://github.com/dpa99c/phonegap-istablet) which indicates whether the current device is a tablet or a phone.
+
+Supported platforms: Android, iOS, Windows 10 Mobile
 
 
 ## Contents
@@ -13,39 +15,29 @@ This repo contains an example PhoneGap 3 project which illustrates how to use th
 # Downloading
 
 To download the example project, clone it using git:
-```
-$ git clone https://github.com/dpa99c/phonegap-istablet-example.git
 
-```
+    $ git clone https://github.com/dpa99c/phonegap-istablet-example.git
+
 
 # Android
 
-To run the Android project either build and run the project using the Phonegap CLI:
-```
-$ phonegap run android
+To build and run on Android, run the following command from the project root folder:
 
-```
+    $ cordova add platform android@latest && cordova run android
 
-Or import the project in Eclipse and run it from there. The Eclipse project is located here:
-```
-platforms/android
-
-```
 
 # iOS
 
-To run the iOS project either build and run the project using the Phonegap CLI:
-```
-$ phonegap run ios
+To build and run on iOS, run the following command from the project root folder:
 
-```
-Note: For this to work, you need to build and install the Phonegap ios-deploy project first: `npm install -g ios-deploy`
+    $ cordova add platform ios@latest && cordova run ios
+    
+    
+# Windows 10
 
-Or import the project in Xcode and run it from there. The Xcode project is located here:
-```
-platforms/ios
+To build and run on Windows 10, run the following command from the project root folder:
 
-```
+    $ cordova add platform windows@latest && cordova run windows
 
 License
 ================
